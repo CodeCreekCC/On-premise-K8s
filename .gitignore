@@ -1,3 +1,6 @@
 .terraform
 terraform/secrets
 ansible/repo
+
+# Vagrant 
+.vagrant
